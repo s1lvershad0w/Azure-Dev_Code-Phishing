@@ -1,4 +1,4 @@
-# ADC_Enum.ps1
+# ADCEnum.ps1
 
 This is a POC script to automate the information gathering phase during an Azure Device Code Phishing attack. For more information refer the blogpost: https://www.offsec-journey.com/post/phishing-with-azure-device-codes
 
