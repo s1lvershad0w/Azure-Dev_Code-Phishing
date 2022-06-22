@@ -1,4 +1,4 @@
-# Azure-Dev_Code-Phishing
+# ADC_Enum.ps1
 
 # STEPS TO RUN
 1. Copy ADCEnum.ps1 to TokenTactics directory
