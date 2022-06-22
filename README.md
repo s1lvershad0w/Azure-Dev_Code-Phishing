@@ -1,6 +1,6 @@
 # Azure-Dev_Code-Phishing
 
-#STEPS TO RUN
+# STEPS TO RUN
 1. Copy ADCEnum.ps1 to TokenTactics directory
 2. Install-Module AzureAD
 3. Ensure script is updated with victim EMAIL & DEVICE_CODE
